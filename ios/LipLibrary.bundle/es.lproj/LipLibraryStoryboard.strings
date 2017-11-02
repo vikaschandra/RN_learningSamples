@@ -1,0 +1,129 @@
+
+/* Class = "UILabel"; text = "Please tap the link in the email to confirm your address.\nIf you don’t recieve an email within the next 5 minutes, please check your junk folder or tap the resend button below. "; ObjectID = "03D-Vh-Gw1"; */
+"03D-Vh-Gw1.text" = "Pulse el vínculo en el correo electrónico para confirmar su dirección.\nSi no recibe un mensaje en el plazo de 5 minutos, compruebe si ha entrado en su carpeta de correo no deseado o pulse el botón de reenvío bajo estas líneas. ";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "0cp-Hk-Q8W"; */
+"0cp-Hk-Q8W.normalTitle" = "ACEPTAR";
+
+/* Class = "UILabel"; text = "FORGOT PASSWORD"; ObjectID = "4pu-px-Xo8"; */
+"4pu-px-Xo8.text" = "CONTRASEÑA OLVIDADA";
+
+/* Class = "UILabel"; text = "WELCOME"; ObjectID = "5RH-3g-NRJ"; */
+"5RH-3g-NRJ.text" = "BIENVENIDO";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "62N-Af-FOz"; */
+"62N-Af-FOz.text" = "CONTRASEÑA";
+
+/* Class = "UILabel"; text = "Your Logi ID"; ObjectID = "6GS-qe-YiV"; */
+"6GS-qe-YiV.text" = "Su ID de Logi";
+
+/* Class = "UILabel"; text = "For security reasons, your current password has been removed from the system. You may generate a new password from your account settings or from the email that has been sent to you. "; ObjectID = "6pp-eu-hHi"; */
+"6pp-eu-hHi.text" = "Por razones de seguridad, la contraseña de su cuenta se ha eliminado del sistema. Puede generar una contraseña nueva desde la configuración de su cuenta o el correo electrónico que se le ha enviado. ";
+
+/* Class = "UILabel"; text = "We have sent a password reset email to your email address that you supplied."; ObjectID = "7RY-9T-yl7"; */
+"7RY-9T-yl7.text" = "Hemos enviado un correo electrónico de restablecimiento de contraseña a la dirección que nos proporcionó.";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "8c9-46-5ny"; */
+"8c9-46-5ny.normalTitle" = "INICIAR SESIÓN";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "9XH-rI-K0g"; */
+"9XH-rI-K0g.text" = "CORREO ELECTRÓNICO";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "C73-o2-mKB"; */
+"C73-o2-mKB.normalTitle" = "CONTINUAR";
+
+/* Class = "UIButton"; normalTitle = "Need A New Account?"; ObjectID = "Eh4-aQ-RPl"; */
+"Eh4-aQ-RPl.normalTitle" = "¿Necesita una cuenta nueva?";
+
+/* Class = "UIButton"; normalTitle = "RESEND"; ObjectID = "GfD-2S-pxC"; */
+"GfD-2S-pxC.normalTitle" = "REENVIAR";
+
+/* Class = "UILabel"; text = "LAST NAME"; ObjectID = "JHX-di-K6i"; */
+"JHX-di-K6i.text" = "APELLIDOS";
+
+/* Class = "UIButton"; normalTitle = "CREATE ACCOUNT"; ObjectID = "KKN-yv-GOU"; */
+"KKN-yv-GOU.normalTitle" = "CREAR CUENTA";
+
+/* Class = "UILabel"; text = "We’ve sent a verification email to"; ObjectID = "KKb-gp-cke"; */
+"KKb-gp-cke.text" = "Hemos enviado un correo electrónico de verificación a";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "MpJ-mR-czH"; */
+"MpJ-mR-czH.normalTitle" = "Configuración";
+
+/* Class = "UITextField"; placeholder = "Minimum 8 characters"; ObjectID = "ND0-2h-jqP"; */
+"ND0-2h-jqP.placeholder" = "Mínimo 8 caracteres";
+
+/* Class = "UILabel"; text = "Thanks for logging in using <Facebook or Google>. We recommend you to access your account the same way. \n"; ObjectID = "QQ7-bT-r9p"; */
+"QQ7-bT-r9p.text" = "Gracias por iniciar sesión mediante <Facebook or Google>. Le aconsejamos que use el mismo método para acceder a su cuenta. \n";
+
+/* Class = "UILabel"; text = "You have disabled Facebook access for this app."; ObjectID = "SWH-K2-p3i"; */
+"SWH-K2-p3i.text" = "Ha desactivado el acceso a Facebook para esta aplicación.";
+
+/* Class = "UILabel"; text = "CONFIRM EMAIL"; ObjectID = "Tc7-xy-TPN"; */
+"Tc7-xy-TPN.text" = "CONFIRMAR CORREO ELECTRÓNICO";
+
+/* Class = "UILabel"; text = "Receive periodic emails from Logi."; ObjectID = "U4R-Xm-tkT"; */
+"U4R-Xm-tkT.text" = "Recibir correo electrónico periódico de Logi.";
+
+/* Class = "UILabel"; text = "Enable access under Settings > Facebook"; ObjectID = "UFd-Hm-7HK"; */
+"UFd-Hm-7HK.text" = "Activar acceso bajo Configuración > Facebook";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "VkC-Nk-42g"; */
+"VkC-Nk-42g.text" = "CORREO ELECTRÓNICO";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "XPK-Wl-Oxh"; */
+"XPK-Wl-Oxh.normalTitle" = "¿Ha olvidado su contraseña?";
+
+/* Class = "UILabel"; text = "Incorrect email or password. If you previously used Facebook or Google use that again now, else reset your password."; ObjectID = "Zbq-4X-VTa"; */
+"Zbq-4X-VTa.text" = "Correo electrónico o contraseña incorrectos. Si anteriormente ha utilizado Facebook o Google, vuelva a hacerlo o restablezca su contraseña.";
+
+/* Class = "UILabel"; text = "FORGOT PASSWORD"; ObjectID = "a9z-fj-5pF"; */
+"a9z-fj-5pF.text" = "CONTRASEÑA OLVIDADA";
+
+/* Class = "UILabel"; text = "The instructions to reset your password will be sent to your email id."; ObjectID = "cvY-fU-wu5"; */
+"cvY-fU-wu5.text" = "Las instrucciones de restablecimiento de la contraseña se enviarán al ID de su correo electrónico.";
+
+/* Class = "UILabel"; text = "Please check your inbox to continue."; ObjectID = "d4o-ax-kte"; */
+"d4o-ax-kte.text" = "Compruebe su buzón para continuar.";
+
+/* Class = "UIButton"; normalTitle = "Already have an account?"; ObjectID = "dcY-kC-UGJ"; */
+"dcY-kC-UGJ.normalTitle" = "¿Ya tiene una cuenta?";
+
+/* Class = "UILabel"; text = "FIRST NAME"; ObjectID = "eCl-02-Cvg"; */
+"eCl-02-Cvg.text" = "NOMBRE";
+
+/* Class = "UIButton"; normalTitle = "SEND EMAIL"; ObjectID = "fTy-yy-y2o"; */
+"fTy-yy-y2o.normalTitle" = "ENVIAR CORREO ELECTRÓNICO";
+
+/* Class = "UIButton"; normalTitle = "EMAIL"; ObjectID = "fWz-c9-UIW"; */
+"fWz-c9-UIW.normalTitle" = "CORREO ELECTRÓNICO";
+
+/* Class = "UILabel"; text = "HMM..."; ObjectID = "hMj-0p-Dg5"; */
+"hMj-0p-Dg5.text" = "ESTO...";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "j1P-Cf-8QE"; */
+"j1P-Cf-8QE.text" = "INICIAR SESIÓN";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "lOc-ZW-yGI"; */
+"lOc-ZW-yGI.normalTitle" = "ACEPTAR";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "mNT-Lf-krw"; */
+"mNT-Lf-krw.normalTitle" = "ACEPTAR";
+
+/* Class = "UILabel"; text = "CREATE ACCOUNT"; ObjectID = "mPa-m0-l3n"; */
+"mPa-m0-l3n.text" = "CREAR CUENTA";
+
+/* Class = "UILabel"; text = "Please accept the Terms of Use and Privacy Policy to continue."; ObjectID = "msT-cf-th2"; */
+"msT-cf-th2.text" = "Debe aceptar los Términos de uso y la Política de privacidad para continuar.";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "oCJ-9U-dSz"; */
+"oCJ-9U-dSz.text" = "CONTRASEÑA";
+
+/* Class = "UILabel"; text = "SIGN UP WITH:"; ObjectID = "pBY-ez-4Le"; */
+"pBY-ez-4Le.text" = "REGISTRARSE CON:";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "vw4-mq-Ens"; */
+"vw4-mq-Ens.normalTitle" = "ACEPTAR";
+
+/* Class = "UILabel"; text = "ACCESS DENIED"; ObjectID = "wVU-zR-Sz6"; */
+"wVU-zR-Sz6.text" = "ACCESO DENEGADO";

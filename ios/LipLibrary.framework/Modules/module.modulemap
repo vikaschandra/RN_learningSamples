@@ -1,0 +1,6 @@
+framework module LipLibrary {
+  umbrella header "LipLibrary.h"
+
+  export *
+  module * { export * }
+}
